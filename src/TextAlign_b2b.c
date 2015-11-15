@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "liberrmsg.h"
 char HMSG[]="\
-%s read text from file[or standart input] and replace 'backspace' with 'backspace' for new alignment.\n\
+%s read text from file [or standart input] and replace 'backspace' with 'backspace' for new alignment.\n\
 \n\
 TextAlign_b2b file -f<N> -t<N>\n\
 \n\
